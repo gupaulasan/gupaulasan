@@ -1,10 +1,10 @@
-## Gustavo de Paula Santos
+# Gustavo de Paula Santos
 
-### Hello there!
+## Hello there!
 
 Welcome to my GitHub page!
 
-### About me
+## About me
 
 I'm a Materials Engineering undergraduate student at the Federal University of Santa Catarina in Brazil. My interest are mainly related to Applied Data Science and machine learning and materials modeling and simulation.
 
@@ -19,17 +19,31 @@ Feel free to contact me in my social media<br>
 <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
 </a>
 
-### Portfolio
+## Portfolio
 Check my Data Science portfolio bellow <br>
 <a href="https://github.com/gupaulasan/portfolio" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-### Tools used
-#### Data Science
+## Tools used
+### Data Science
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </a>
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
+</a>
+
 
 
 <!--

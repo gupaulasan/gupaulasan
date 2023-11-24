@@ -28,19 +28,20 @@ Check my Data Science portfolio bellow <br>
 ## Tools used
 ### Data Science
 <a target="_blank" rel="noopener noreferrer nofollow">
-<img src="[https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow">
-<img src="[https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 </a>
 
-
-
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</a>
 
 <!--
 **gupaulasan/gupaulasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

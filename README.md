@@ -28,21 +28,17 @@ Check my Data Science portfolio bellow <br>
 ## Tools used
 ### Data Science
 <a target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="[https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)">
 </a>
-</a>
+
 <a target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="[https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)">
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-</a>
+
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
-</a>
+
 
 
 

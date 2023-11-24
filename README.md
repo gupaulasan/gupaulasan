@@ -1,10 +1,11 @@
+## Gustavo de Paula Santos
 ### Hello there!
 
 Welcome to my GitHub page!
 
 ### About me
 
-I'm aa Materials Engineering undergraduate student at the Federal University of Santa Catarina in Brazil. My interest are mainly related to Applied Data Science and machine learning and materials modeling and simulation.
+I'm a Materials Engineering undergraduate student at the Federal University of Santa Catarina in Brazil. My interest are mainly related to Applied Data Science and machine learning and materials modeling and simulation.
 
 Feel free to contact me in my social media<br>
 <a href="https://www.linkedin.com/in/gustavopsantos/">

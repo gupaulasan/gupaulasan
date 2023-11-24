@@ -25,6 +25,11 @@ Check my Data Science portfolio bellow <br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+### Tools used
+#### Data Science
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
 
 
 <!--

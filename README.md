@@ -6,7 +6,7 @@ Welcome to my GitHub page!
 
 ## About me
 
-I'm a Materials Engineering undergraduate student at the Federal University of Santa Catarina in Brazil. My interest are mainly related to Applied Data Science and machine learning and materials modeling and simulation.
+I'm a Materials Engineering undergraduate student at the Federal University of Santa Catarina in Brazil. My interest are mainly related to Applied Data Science and Machine Learning and materials modeling and simulation.
 
 Feel free to contact me in my social media<br>
 <a href="https://www.linkedin.com/in/gustavopsantos/" target="_blank">
@@ -27,6 +27,7 @@ Check my Data Science portfolio bellow <br>
 
 ## Tools used
 ### Data Science
+<p>
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </a>
@@ -42,7 +43,26 @@ Check my Data Science portfolio bellow <br>
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </a>
+</p>
 
+### Data Viz
+* Matplotlib
+* Seaborn
+
+### Other languages
+<p>
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
+</p>
 <!--
 **gupaulasan/gupaulasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -25,6 +25,10 @@ Check my Data Science portfolio bellow <br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+### Featured Project
+[Electric Bikes Reviews](https://github.com/gupaulasan/portfolio/tree/main/Electric%20Bikes%20Reviews): Prediction of ownership based on user reviews using machine learning classification models 
+
+
 ## Tools used
 ### Data Science
 <p>

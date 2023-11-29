@@ -50,8 +50,9 @@ Check my Data Science portfolio bellow <br>
 </p>
 
 ### Data Viz
-* Matplotlib
-* Seaborn
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07f9ccb5cfb32e0ddc3b0bb406e191c636c2f0d2e99f3542e7d60b6958e44a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/07f9ccb5cfb32e0ddc3b0bb406e191c636c2f0d2e99f3542e7d60b6958e44a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b" alt="Matplotlib" data-canonical-src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black" style="max-width: 100%;"></a>
+
+<g shape-rendering="crispEdges"><rect width="108.5" height="28" fill="#ffffff"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="542.5" y="175" textLength="845" fill="#333" font-weight="bold">SEABORN</text></g>
 
 ### Other languages
 <p>

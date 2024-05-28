@@ -33,7 +33,7 @@ Check my Data Science portfolio bellow <br>
 
 
 ## Tools used
-### Data Science
+### Data manipulation
 <p>
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -47,6 +47,11 @@ Check my Data Science portfolio bellow <br>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 </a>
 
+</p>
+
+### Machine Learning
+
+<p>
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </a>
@@ -58,7 +63,6 @@ Check my Data Science portfolio bellow <br>
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </a>
-
 </p>
 
 ### Data Viz

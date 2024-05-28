@@ -63,6 +63,10 @@ Check my Data Science portfolio bellow <br>
 <a target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </a>
+
+<a target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+</a>
 </p>
 
 ### Data Viz

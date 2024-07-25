@@ -29,6 +29,8 @@ Check my Data Science portfolio bellow <br>
 </a>
 
 ### Featured Project
+[Spotify Playlist Continuation](https://github.com/gupaulasan/playlist-continuation): Compare two different strategies for playlist continuation. <i>Currently only available in Portuguese, I'm working on translating it all to English</i>
+
 [Electric Bikes Reviews](https://github.com/gupaulasan/portfolio/tree/main/Electric%20Bikes%20Reviews): Prediction of ownership based on user reviews using machine learning classification models 
 
 

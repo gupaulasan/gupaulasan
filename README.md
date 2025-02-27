@@ -18,20 +18,15 @@ Feel free to contact me in my social media<br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
 </a>
 
-<a href="https://www.datacamp.com/portfolio/gustavoPsantos" target="_blank">
-<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
-</a>
-
 ## Portfolio
 Check my Data Science portfolio bellow <br>
-<a href="https://github.com/gupaulasan/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://gustavo-santos-portfolio.streamlit.app" target="_blank">
+<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 
 ### Featured Project
-[Spotify Playlist Continuation](https://github.com/gupaulasan/playlist-continuation): Compare two different strategies for playlist continuation. <i>Currently only available in Portuguese, I'm working on translating it all to English</i>
-
-[Electric Bikes Reviews](https://github.com/gupaulasan/portfolio/blob/main/Electric%20Bikes%20Reviews/electric_motorcycles.ipynb): Prediction of ownership based on user reviews using machine learning classification models 
+[Spotify Playlist Continuation](https://github.com/gupaulasan/playlist-continuation): Compare two different strategies for playlist continuation using Spotify data. 
+[Credit Score Prediction](https://github.com/gupaulasan/credit-score): Prediction of transaction default risk using past transactions
 
 
 ## Tools used
@@ -90,17 +85,3 @@ Check my Data Science portfolio bellow <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 </p>
-<!--
-**gupaulasan/gupaulasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
